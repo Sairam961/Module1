@@ -30,3 +30,4 @@ print("d is", d)
 <img width="1579" height="475" alt="image" src="https://github.com/user-attachments/assets/eb647c9a-99e5-4a72-8023-4936cf053217" />
 
 ## Result
+Thus the program has been executed successfully
